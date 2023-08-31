@@ -1,5 +1,5 @@
 {
-  "name": "eft-planner",
+  "name": "eft-sherpa-client",
   "packageManager": "yarn@3.6.3",
   "version": "0.1.0",
   "scripts": {

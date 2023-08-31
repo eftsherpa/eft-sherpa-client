@@ -1,1 +1,1 @@
-# Escape From Tarkov Planner
+# Escape From Tarkov Sherpa
